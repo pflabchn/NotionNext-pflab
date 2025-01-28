@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到福兰贡芳香实验室 🎉', url: 'https://blog.tangly1024.com' },
-    { title: '加Tim@小助手微信falangong001，领取12.3万字医芳笔记', url: 'https://docs.tangly1024.com' }
+    { title: '加微信falangong001，领取12.3万字医芳笔记', url: 'https://docs.tangly1024.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
