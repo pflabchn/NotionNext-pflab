@@ -21,9 +21,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '洗掉假知识',
   HEO_HERO_TITLE_2: '建立新认知',
   HEO_HERO_TITLE_3: 'falangong.cn',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_4: '经验分享',
+  HEO_HERO_TITLE_5: '只学芳疗是无根之木',
+  HEO_HERO_TITLE_LINK: 'https://mp.weixin.qq.com/s/mY8lk8qsIL8E7x1ksfed2w',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
