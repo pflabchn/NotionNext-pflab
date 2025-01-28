@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '洗掉假知识',
-  HEO_HERO_TITLE_2: '建立新热值',
+  HEO_HERO_TITLE_2: '建立新认知',
   HEO_HERO_TITLE_3: 'falangong.cn',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
