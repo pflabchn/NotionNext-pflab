@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-01-28', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'falangong.cn',
   HEO_HERO_TITLE_4: '经验分享',
   HEO_HERO_TITLE_5: '只学芳疗是无根之木',
-  HEO_HERO_TITLE_LINK: 'https://falangong.cn/article/2505',
+  HEO_HERO_TITLE_LINK: 'https://falangong.cn/article/学习芳疗',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://falangong.cn/article/2500',
+  HEO_INFO_CARD_URL2: 'https://falangong.cn/article/%E7%A6%8F%E5%85%B0%E8%B4%A1',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://falangong.cn/article/2500',
+  HEO_INFO_CARD_URL3: 'https://falangong.cn/article/%E7%A6%8F%E5%85%B0%E8%B4%A1',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
