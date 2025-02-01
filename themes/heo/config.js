@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到福兰贡芳香实验室 🎉', url: 'https://falangong.cn/article/福兰贡' },
-    { title: '领取13万字医芳笔记🎁', url: 'https://falangong.cn/article/医学芳疗笔记' }
+    { title: '了解福兰贡芳香实验室 🎉', url: 'https://falangong.cn/article/falangong' },
+    { title: '领取13万字医芳笔记 🎁', url: 'https://falangong.cn/article/Aromatherapy-Journal' }
   ],
 
   // 英雄区左右侧组件颠倒位置
