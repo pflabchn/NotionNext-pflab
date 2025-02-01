@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'falangong.cn',
   HEO_HERO_TITLE_4: '经验分享',
   HEO_HERO_TITLE_5: '只学芳疗是无根之木',
-  HEO_HERO_TITLE_LINK: 'https://falangong.cn/article/学习芳疗',
+  HEO_HERO_TITLE_LINK: 'https://falangong.cn/article/Learning-Aromatherapy',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
