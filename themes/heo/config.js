@@ -50,9 +50,9 @@ const CONFIG = {
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
+  HEO_INFO_CARD_ICON1: 'fas fa-bell',
   HEO_INFO_CARD_URL2: 'https://falangong.cn/article/falangong',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
+  HEO_INFO_CARD_ICON2: 'fab  fa-weixin',
   HEO_INFO_CARD_URL3: 'https://falangong.cn/article/falangong',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
