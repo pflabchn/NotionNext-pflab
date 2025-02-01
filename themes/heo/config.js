@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://falangong.cn/article/%E7%A6%8F%E5%85%B0%E8%B4%A1',
+  HEO_INFO_CARD_URL2: 'https://falangong.cn/article/falangong',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://falangong.cn/article/%E7%A6%8F%E5%85%B0%E8%B4%A1',
+  HEO_INFO_CARD_URL3: 'https://falangong.cn/article/falangong',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -117,9 +117,9 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
+  HEO_SOCIAL_CARD_TITLE_1: '联系我们',
+  HEO_SOCIAL_CARD_TITLE_2: '添加小助手微信',
+  HEO_SOCIAL_CARD_TITLE_3: '点击查看',
   HEO_SOCIAL_CARD_URL: 'https://falangong.cn/article/2500',
 
   // 底部统计面板文案
