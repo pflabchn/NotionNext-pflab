@@ -118,9 +118,9 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '联系我们',
-  HEO_SOCIAL_CARD_TITLE_2: '添加小助手微信',
+  HEO_SOCIAL_CARD_TITLE_2: '添加小助手微信WeChat',
   HEO_SOCIAL_CARD_TITLE_3: '点击查看',
-  HEO_SOCIAL_CARD_URL: 'https://falangong.cn/article/2500',
+  HEO_SOCIAL_CARD_URL: 'https://falangong.cn/article/falangong-tim',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
