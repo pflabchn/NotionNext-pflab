@@ -61,7 +61,7 @@ const CONFIG = {
     {
       title_1: '法兰贡',
       img_1: '/images/heo/法兰贡.webp',
-      color_1: '#989bf8',
+      color_1: '#aaaa8a',
       title_2: '克里斯汀',
       img_2: '/images/heo/克里斯汀.webp',
       color_2: '#ffffff'
