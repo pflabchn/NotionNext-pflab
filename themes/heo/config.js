@@ -95,7 +95,7 @@ const CONFIG = {
       img_1: '/images/heo/法兰贡2.webp',
       color_1: '#f29e39',
       title_2: '精确芳疗学',
-      img_2: '/images/heo/精确芳疗学.webp',
+      img_2: '/images/heo/精确芳疗学1.webp',
       color_2: '#2c51db'
     },
     {
@@ -103,7 +103,7 @@ const CONFIG = {
       img_1: '/images/heo/药用精油学.webp',
       color_1: '#f7cb4f',
       title_2: '药用精油大百科',
-      img_2: '/images/heo/药用精油大百科.webp',
+      img_2: '/images/heo/药用精油大百科2.webp',
       color_2: '#e9572b'
     },
     {
