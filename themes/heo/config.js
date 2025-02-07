@@ -77,10 +77,10 @@ const CONFIG = {
     {
       title_1: '安娜',
       img_1: '/images/heo/安娜.webp',
-      color_1: '#ffffff',
+      color_1: '#d5ba9f',
       title_2: '法兰贡',
       img_2: '/images/heo/法兰贡1.webp',
-      color_2: '#ffffff'
+      color_2: '#fbcd08'
     },
     {
       title_1: '伊莎贝拉',
