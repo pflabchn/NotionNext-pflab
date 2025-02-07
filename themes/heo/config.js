@@ -75,11 +75,11 @@ const CONFIG = {
       color_2: '#4082c3'
     },
     {
-      title_1: '安娜',
-      img_1: '/images/heo/安娜.webp',
+      title_1: '法兰贡',
+      img_1: '/images/heo/法兰贡1.webp',
       color_1: '#d5ba9f',
-      title_2: '法兰贡',
-      img_2: '/images/heo/法兰贡1.webp',
+      title_2: '安娜',
+      img_2: '/images/heo/安娜.webp',
       color_2: '#fbcd08'
     },
     {
