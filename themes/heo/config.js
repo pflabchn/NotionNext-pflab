@@ -64,7 +64,7 @@ const CONFIG = {
       color_1: '#aaaa8a',
       title_2: '克里斯汀',
       img_2: '/images/heo/克里斯汀.webp',
-      color_2: '#ffffff'
+      color_2: '#2292e4'
     },
     {
       title_1: '伊莎贝拉',
@@ -112,7 +112,7 @@ const CONFIG = {
       color_1: '#df5b40',
       title_2: '法兰贡',
       img_2: '/images/heo/法兰贡.webp',
-      color_2: '#1f1f1f'
+      color_2: '#53589a'
     }
   ],
 
