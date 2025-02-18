@@ -19,7 +19,7 @@ const BLOG = {
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://falangong.cn', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '芳香疗法,法兰贡,福兰贡,芳疗,精油,芳疗师,国际芳疗师,芳疗培训,IFA芳疗师,NAHA芳疗师,学习芳疗,国际芳疗师培训,法兰贡实验室,法兰贡课程,IFA培训机构', // 网站关键词 英文逗号隔开
   BLOG_FAVICON: process.env.NEXT_PUBLIC_FAVICON || '/favicon.ico', // blog favicon 配置, 默认使用 /public/favicon.ico，支持在线图片，如 https://img.imesong.com/favicon.png
-  BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '', // 备案号 闽ICP备XXXXXX
+  BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '鄂ICP备2024048551号-2', // 备案号 闽ICP备XXXXXX
   BEI_AN_LINK: process.env.NEXT_PUBLIC_BEI_AN_LINK || 'https://beian.miit.gov.cn/', // 备案查询链接，如果用了萌备等备案请在这里填写
 
   // RSS订阅
