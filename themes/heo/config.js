@@ -21,9 +21,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '洗掉假知识',
   HEO_HERO_TITLE_2: '建立新认知',
   HEO_HERO_TITLE_3: 'falangong.cn',
-  HEO_HERO_TITLE_4: '经验分享',
-  HEO_HERO_TITLE_5: '只学芳疗是无根之木',
-  HEO_HERO_TITLE_LINK: 'https://falangong.cn/article/Learning-Aromatherapy',
+  HEO_HERO_TITLE_4: '法兰贡专题小课系列之',
+  HEO_HERO_TITLE_5: '头皮护理专题',
+  HEO_HERO_TITLE_LINK: 'https://falangong.cn/article/Scalp-Care',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
