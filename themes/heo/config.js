@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '建立新认知',
   HEO_HERO_TITLE_3: 'falangong.cn',
   HEO_HERO_TITLE_4: '法兰贡专题小课系列之',
-  HEO_HERO_TITLE_5: '头皮护理专题',
+  HEO_HERO_TITLE_5: '用科学和精油重启减肥',
   HEO_HERO_TITLE_LINK: 'https://falangong.cn/article/Scalp-Care',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
